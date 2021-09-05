@@ -3,7 +3,7 @@
 # 多个项目集合
 ### https://github.com/shufflewzc/faker2
 ### https://github.com/JDHelloWorld/jd_scripts
-### https://github.com/JDHelloWorld/jd_scripts
+### https://github.com/he1pu/JDHelp
 
 
 
